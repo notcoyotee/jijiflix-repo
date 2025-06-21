@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting id="forum_domain" type="text" label="Forum Domain" default="www.1tamilmv.boo" />
+        <setting id="premiumize_api_key" type="text" label="Premiumize API Key" default="cic5tujhi5m742su" />
+    </category>
+</settings>
+
